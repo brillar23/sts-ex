@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>JH의 jsp</h1>
+	<h2>뭐이리 어렵냐</h2>
 </body>
 </html>
